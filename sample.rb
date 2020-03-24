@@ -1,4 +1,4 @@
 def hello
-  p "hello, GitHubGithub."
+  p "hello, GitHub Desktop."
 end
 hello
